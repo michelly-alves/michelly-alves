@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/michelly-alves">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michelly-alves&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img widtht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellyalves&layout=compact&langs_count=7&theme=buefy"/>
+  <a href="https://picasion.com/"><img width="190px" src="https://i.picasion.com/pic92/d37ee56e63e7f8fb94a03c9682687d4d.gif" height="190px" border-radius="50px"/></a><br />
 </div>
-  
+
   
