@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Atualmente estudando HTML, CSS, JavaScript entre outros.
+- 🌱 
 
 <div align="center">
   <a href="https://github.com/michelly-alves">
