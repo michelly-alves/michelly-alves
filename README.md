@@ -8,5 +8,5 @@
 
 </div>
 
-  
+  ![Snake animation](https://github.com/michelly-alves/michelly-alves.git/blob/output/github-contribution-grid-snake.svg)
   
